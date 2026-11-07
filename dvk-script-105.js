@@ -46,19 +46,18 @@ if (ua.includes("Locket")) {
             profile_banner: true
         }),
         feature_discovery_popup_config: JSON.stringify({
-            tag: "LOCKET GOLD ĐHT",
+            tag: "DINHKHOI MEDIA",
             tag_gradient: true,
             tag_style: "gold_gradient",
-            title: "LÊN GOLD XỊN RỒI FEN 💛",
+            title: "DinhKhoi Media ✨",
             feature_set: [
                 {
-                    title: "Liên Hệ 0901894517 muốn gì có hết ✨",
-                    body: "Locket Gold by tiendh (andanh447) 💛",
-                    imageURL: "https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"
+                    title: "Telegram: @dvkxcuto",
+                    body: "Liên hệ Zalo: 0937643857 • DinhKhoi Media"
                 }
             ],
             primary_button_title: "Xong",
-            campaign: "locket_gold_welcome_v3",
+            campaign: "dinhkhoi_media_welcome_v1",
             start_at: "2020-01-01T00:00:00",
             end_at: "2099-12-31T23:59:59",
             use_local_time_zone: true
