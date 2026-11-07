@@ -1,9 +1,9 @@
-#!name=DinhKhoi Media | All In 1 With ĐHT
-#!desc=Crack mọi app premium vip pro bởi Đ_H_T (andanh447)
-#!author=andanh447
-#!homepage=https://note3s.top/notes/WM6212,https://note3s.top/notes/NZQQMJ
-#!moduleUrl=https://raw.githubusercontent.com/andanh447/locketgold_tool/refs/heads/main/ALLin1DHT.sgmodule
-#!howtouse=Shadowrocket ĐHT
+#!name=DinhKhoi Media | dvk-asset-004
+#!desc=DinhKhoi Media - Phiên bản tùy chỉnh
+#!author=Đinh Văn Khôi (DinhKhoi Media) - bản tùy chỉnh
+#!homepage=https://github.com/dinhvankhoii/LocketGold_DVK
+#!moduleUrl=https://raw.githubusercontent.com/dinhvankhoii/LocketGold_DVK/main/dvk-asset-004.sgmdule
+#!howtouse=Shadowrocket - DinhKhoi Media
 
 
 [Rule]
@@ -127,7 +127,7 @@ SoundCloudGo+=type=http-response,pattern=https://api-mobile.soundcloud.com/confi
 #************************************#
 
 # ===== Spotify iOS15 (app2smile) =====
-#!name=Spotify(iOS15)
+#!name=DinhKhoi Media | dvk-asset-004
 #!desc=部分解锁premium,建议重新登录,音质不能设置为超高
 # 1. 搜索界面 歌单/歌曲可以随意切换完全播放
 # 2. 音乐库已点赞歌曲随意切换完全播放

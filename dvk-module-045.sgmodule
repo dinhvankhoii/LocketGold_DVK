@@ -1,6 +1,6 @@
 #!name=DinhKhoi Media | dvk-module-045
 
-#!desc=DinhKhoi Media - ban tuy chinh, giu nguyen ghi nhan tac gia goc
+#!desc=DinhKhoi Media - Phiên bản tùy chỉnh
 
 
 bazaart会员解锁=type=http-response,pattern=https://buy.itunes.apple.com/verifyReceipt,requires-body=1,script-path=https://raw.githubusercontent.com/dinhvankhoii/LocketGold_DVK/main/dvk-script-014.js

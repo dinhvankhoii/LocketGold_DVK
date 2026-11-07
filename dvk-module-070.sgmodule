@@ -1,7 +1,7 @@
 #!name=DinhKhoi Media | dvk-module-070
-#!desc=DinhKhoi Media - ban tuy chinh, giu nguyen ghi nhan tac gia goc
-#!author=andanh447 | Repack: DinhKhoi Media (DVK)
-#!homepage=https://note3s.top/notes/WM6212,https://note3s.top/notes/NZQQMJ
+#!desc=DinhKhoi Media - Phiên bản tùy chỉnh
+#!author=Đinh Văn Khôi (DinhKhoi Media) - bản tùy chỉnh
+#!homepage=https://github.com/dinhvankhoii/LocketGold_DVK
 #!moduleUrl=https://raw.githubusercontent.com/dinhvankhoii/LocketGold_DVK/main/dvk-module-070.sgmodule
 #!howtouse=Shadowrocket - DinhKhoi Media
 
@@ -44,7 +44,7 @@ SoundCloudGo+=type=http-response,pattern=https://api-mobile.soundcloud.com/confi
 #************************************#
 
 # ===== Spotify iOS15 (app2smile) =====
-#!name=Spotify(iOS15)
+#!name=DinhKhoi Media | dvk-module-070
 #!desc=部分解锁premium,建议重新登录,音质不能设置为超高
 # 1. 搜索界面 歌单/歌曲可以随意切换完全播放
 # 2. 音乐库已点赞歌曲随意切换完全播放
