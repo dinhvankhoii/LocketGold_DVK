@@ -1,0 +1,13 @@
+#!name=DinhKhoi Media | dvk-module-047
+#!desc=DinhKhoi Media - Phiên bản tùy chỉnh
+#!author=Đinh Văn Khôi (DinhKhoi Media) - bản tùy chỉnh
+#!homepage=https://github.com/dinhvankhoii/LocketGold_DVK
+#!moduleUrl=https://raw.githubusercontent.com/dinhvankhoii/LocketGold_DVK/main/dvk-module-047.sgmodule
+#!howtouse=Shadowrocket - DinhKhoi Media
+#Shadowrocket Configuration - ALL IN Đ.H.T (htienz07)
+
+[Script]
+CapCut_Pro = type=http-response,pattern=^https?:\/\/.*\.capcut(v)?\.com\/lv\/v1\/.*,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/dinhvankhoii/LocketGold_DVK/main/dvk-script-109.js
+
+[MITM]
+hostname = *.capcutv.com, *.capcut.com

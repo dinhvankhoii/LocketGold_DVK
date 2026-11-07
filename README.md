@@ -1,14 +1,13 @@
 # DinhKhoi Media | DVK
 
-Trang giới thiệu độc lập của **Đinh Văn Khôi**.
+Bản phân phối lại / chỉnh sửa bởi **Đinh Văn Khôi (DinhKhoi Media, dvk)**.
 
-- Zalo: 0937643857
-- Telegram: [@dvkxcuto](https://t.me/dvkxcuto)
-- Trang giới thiệu: `dvk_brand/index.html`
-- Báo cáo rà soát tham chiếu source cũ: `audit/reference-audit.csv`
+Các tác giả gốc vẫn giữ quyền tác giả đối với mã nguồn của họ. Không thay thế giấy phép hoặc tuyên bố bản quyền gốc.
 
-## Đăng lên GitHub
-Giải nén ZIP tại thư mục gốc repository, kiểm tra cấu trúc rồi commit và push. Trang HTML có thể được triển khai qua GitHub Pages với thư mục phù hợp.
+## Cấu trúc
 
-## Phạm vi
-Đây là gói nhận diện, tài liệu và kiểm tra tham chiếu. **Không bao gồm module/script can thiệp quyền truy cập Premium**, không thay thế source LocketGold và chưa kiểm thử trong Shadowrocket. Không tự nhận quyền tác giả đối với mã nguồn bên thứ ba.
+Tất cả file nằm trực tiếp ở thư mục gốc repository `dinhvankhoii/LocketGold_DVK`, nhánh `main`. Các file được đặt tên `dvk-module-XXX` và `dvk-script-XXX`; xem `FILE_MAP.json` để đối chiếu.
+
+Các dòng `#!moduleUrl` của module được cập nhật theo đường dẫn mới. Liên kết bên ngoài hoặc tham chiếu đến file không có trong ZIP có thể vẫn giữ nguyên và cần kiểm tra riêng.
+
+**Chưa kiểm thử thực tế các chức năng trong Shadowrocket.** Việc đổi tên có thể ảnh hưởng tham chiếu động hoặc liên kết đã được chia sẻ trước đây.
