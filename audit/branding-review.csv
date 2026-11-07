@@ -1,0 +1,289 @@
+file,line,category,matched_text,preview
+DVK-Ultimate-X.sgmodule,56,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+FILE_MAP.json,119,original_author,andanh447,"""locketfilter_andanh447.js"": ""dvk-script-053.js"","
+FILE_MAP.json,126,original_author,andanh447,"""locketgoldandanh447.js"": ""dvk-script-057.js"","
+FILE_MAP.json,159,original_author,andanh447,"""revenuecatandanh447.js"": ""dvk-script-085.js"","
+ORIGINAL_SOURCE_NOTICE.md,5,original_author,andanh447,Các tập tin dựa trên dự án gốc `andanh447/locketgold_tool` và có thể chứa thành phần từ những tác giả khác. Quyền tác giả và điều khoản cấp phép của các thành phần gốc không được c
+dvk-asset-001,58,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-asset-004.sgmdule,134,original_author,andanh447,"spotify-json = type=http-request,pattern=^https:\/\/(spclient\.wg\.spotify\.com|.*-spclient\.spotify\.com(:443)?)\/(artistview\/v1\/artist|album-entity-view\/v2\/album)\/,requires-"
+dvk-asset-004.sgmdule,138,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-001.sgmodule,58,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-002.sgmodule,109,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-002.sgmodule,130,original_author,andanh447,"1blocker= type=http-response,pattern=^https:\/\/api\.revenuecat\.com\/v1\/subscribers,requires-body=1,script-path=https://raw.githubusercontent.com/andanh447/locketgold_tool/refs/h"
+dvk-module-003.sgmodule,58,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-004.sgmodule,58,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-005.sgmodule,58,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-006.sgmodule,58,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-007.sgmodule,52,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-007.sgmodule,58,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-008.sgmodule,58,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-009.sgmodule,58,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-010.sgmodule,58,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-011.sgmodule,58,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-012.sgmodule,58,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-013.sgmodule,58,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-014.sgmodule,58,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-016.sgmodule,58,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-017.sgmodule,58,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-018.sgmodule,121,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-018.sgmodule,142,original_author,andanh447,"1blocker= type=http-response,pattern=^https:\/\/api\.revenuecat\.com\/v1\/subscribers,requires-body=1,script-path=https://raw.githubusercontent.com/andanh447/locketgold_tool/refs/h"
+dvk-module-019.sgmodule,63,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-019.sgmodule,84,original_author,andanh447,"1blocker= type=http-response,pattern=^https:\/\/api\.revenuecat\.com\/v1\/subscribers,requires-body=1,script-path=https://raw.githubusercontent.com/andanh447/locketgold_tool/refs/h"
+dvk-module-020.sgmodule,63,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-020.sgmodule,84,original_author,andanh447,"1blocker= type=http-response,pattern=^https:\/\/api\.revenuecat\.com\/v1\/subscribers,requires-body=1,script-path=https://raw.githubusercontent.com/andanh447/locketgold_tool/refs/h"
+dvk-module-021.sgmodule,57,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-021.sgmodule,63,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-021.sgmodule,84,original_author,andanh447,"1blocker= type=http-response,pattern=^https:\/\/api\.revenuecat\.com\/v1\/subscribers,requires-body=1,script-path=https://raw.githubusercontent.com/andanh447/locketgold_tool/refs/h"
+dvk-module-022.sgmodule,60,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-023.sgmodule,139,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-023.sgmodule,140,original_author,andanh447,"deleteHeader = type=http-request, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts|subscribers), script-path=https://raw.githubusercontent.com/andanh447/locketgold_tool/refs/"
+dvk-module-024.sgmodule,60,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-025.sgmodule,51,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-025.sgmodule,54,original_author,andanh447,"deleteHeader = type=http-request, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts|subscribers), script-path=https://raw.githubusercontent.com/andanh447/locketgold_tool/refs/"
+dvk-module-026.sgmodule,136,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-026.sgmodule,139,original_author,andanh447,"deleteHeader = type=http-request, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts|subscribers), script-path=https://raw.githubusercontent.com/andanh447/locketgold_tool/refs/"
+dvk-module-027.sgmodule,51,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-027.sgmodule,54,original_author,andanh447,"deleteHeader = type=http-request, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts|subscribers), script-path=https://raw.githubusercontent.com/andanh447/locketgold_tool/refs/"
+dvk-module-028.sgmodule,51,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-028.sgmodule,54,original_author,andanh447,"deleteHeader = type=http-request, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts|subscribers), script-path=https://raw.githubusercontent.com/andanh447/locketgold_tool/refs/"
+dvk-module-029.sgmodule,51,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-029.sgmodule,54,original_author,andanh447,"deleteHeader = type=http-request, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts|subscribers), script-path=https://raw.githubusercontent.com/andanh447/locketgold_tool/refs/"
+dvk-module-030.sgmodule,60,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-031.sgmodule,53,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-032.sgmodule,58,original_author,andanh447,"locket_rc = type=http-response, pattern=^https:\/\/firebaseremoteconfig\.googleapis\.com\/v1\/projects\/locket-4252a\/.+, script-path=https://raw.githubusercontent.com/andanh447/lo"
+dvk-module-033.sgmodule,51,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-033.sgmodule,54,original_author,andanh447,"deleteHeader = type=http-request, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts|subscribers), script-path=https://raw.githubusercontent.com/andanh447/locketgold_tool/refs/"
+dvk-module-034.sgmodule,141,original_author,andanh447,"spotify-json = type=http-request,pattern=^https:\/\/(spclient\.wg\.spotify\.com|.*-spclient\.spotify\.com(:443)?)\/(artistview\/v1\/artist|album-entity-view\/v2\/album)\/,requires-"
+dvk-module-034.sgmodule,146,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-035.sgmodule,50,original_author,andanh447,"spotify-json = type=http-request,pattern=^https:\/\/(spclient\.wg\.spotify\.com|.*-spclient\.spotify\.com(:443)?)\/(artistview\/v1\/artist|album-entity-view\/v2\/album)\/,requires-"
+dvk-module-035.sgmodule,55,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-036.sgmodule,50,original_author,andanh447,"spotify-json = type=http-request,pattern=^https:\/\/(spclient\.wg\.spotify\.com|.*-spclient\.spotify\.com(:443)?)\/(artistview\/v1\/artist|album-entity-view\/v2\/album)\/,requires-"
+dvk-module-037.sgmodule,50,original_author,andanh447,"spotify-json = type=http-request,pattern=^https:\/\/(spclient\.wg\.spotify\.com|.*-spclient\.spotify\.com(:443)?)\/(artistview\/v1\/artist|album-entity-view\/v2\/album)\/,requires-"
+dvk-module-037.sgmodule,60,original_author,andanh447,"locket_rc = type=http-response, pattern=^https:\/\/firebaseremoteconfig\.googleapis\.com\/v1\/projects\/locket-4252a\/.+, script-path=https://raw.githubusercontent.com/andanh447/lo"
+dvk-module-038.sgmodule,56,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-039.sgmodule,147,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-039.sgmodule,150,original_author,andanh447,"deleteHeader = type=http-request, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts|subscribers), script-path=https://raw.githubusercontent.com/andanh447/locketgold_tool/refs/"
+dvk-module-040.sgmodule,146,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-040.sgmodule,152,original_author,andanh447,"locket_rc = type=http-response, pattern=^https:\/\/firebaseremoteconfig\.googleapis\.com\/v1\/projects\/locket-4252a\/.+, script-path=https://raw.githubusercontent.com/andanh447/lo"
+dvk-module-041.sgmodule,146,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-042.sgmodule,134,original_author,andanh447,"spotify-json = type=http-request,pattern=^https:\/\/(spclient\.wg\.spotify\.com|.*-spclient\.spotify\.com(:443)?)\/(artistview\/v1\/artist|album-entity-view\/v2\/album)\/,requires-"
+dvk-module-042.sgmodule,138,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-044.sgmodule,3,old_tiktok,tz4427,# 💬 Tiktok: https://www.tiktok.com/@tz4427?_r=1&_t=ZS-9AlIH0CJNDe
+dvk-module-048.sgmodule,58,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-050.sgmodule,15,original_author,andanh447,"spotify-json = type=http-request,pattern=^https:\/\/(spclient\.wg\.spotify\.com|.*-spclient\.spotify\.com(:443)?)\/(artistview\/v1\/artist|album-entity-view\/v2\/album)\/,requires-"
+dvk-module-051.sgmodule,52,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-051.sgmodule,60,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-053.sgmodule,146,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-054.sgmodule,3,old_tiktok,tz4427,# 💬 Tiktok: https://www.tiktok.com/@tz4427?_r=1&_t=ZS-9AlIH0CJNDe
+dvk-module-054.sgmodule,4,original_author,andanh447,# 🚀 Rewrite by: andanh447 (Tiendz) Server
+dvk-module-059.sgmodule,51,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-059.sgmodule,54,original_author,andanh447,"deleteHeader = type=http-request, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts|subscribers), script-path=https://raw.githubusercontent.com/andanh447/locketgold_tool/refs/"
+dvk-module-060.sgmodule,51,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-060.sgmodule,54,original_author,andanh447,"deleteHeader = type=http-request, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts|subscribers), script-path=https://raw.githubusercontent.com/andanh447/locketgold_tool/refs/"
+dvk-module-061.sgmodule,71,original_author,andanh447,# YouTube Premium (Độc quyền andanh447)
+dvk-module-061.sgmodule,84,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-061.sgmodule,85,original_author,andanh447,"locket_filter_req = type=http-request,pattern=^https:\/\/api\.locketcamera\.com\/.+,max-size=-1,script-path=https://raw.githubusercontent.com/andanh447/locketgold_tool/refs/heads/m"
+dvk-module-061.sgmodule,86,original_author,andanh447,"locket_filter_resp = type=http-response,pattern=^https:\/\/api\.locketcamera\.com\/.+,requires-body=true,max-size=-1,script-path=https://raw.githubusercontent.com/andanh447/locketg"
+dvk-module-061.sgmodule,92,original_author,andanh447,"spotify-proto = type=http-response,pattern=^https:\/\/(spclient\.wg\.spotify\.com|.*-spclient\.spotify\.com(?::443)?)\/(bootstrap\/v1\/bootstrap|user-customization-service\/v1\/cus"
+dvk-module-062.sgmodule,146,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-062.sgmodule,152,original_author,andanh447,"locket_rc = type=http-response, pattern=^https:\/\/firebaseremoteconfig\.googleapis\.com\/v1\/projects\/locket-4252a\/.+, script-path=https://raw.githubusercontent.com/andanh447/lo"
+dvk-module-063.sgmodule,1,original_author,andanh447,#!url=https://raw.githubusercontent.com/andanh447/locketgold_tool/refs/heads/main/ALLin1DHT.sgmodule
+dvk-module-063.sgmodule,9,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-063.sgmodule,11,original_author,andanh447,"deleteHeader = type=http-request, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts|subscribers), script-path=https://raw.githubusercontent.com/andanh447/locketgold_tool/refs/"
+dvk-module-064.sgmodule,3,old_tiktok,tz4427,# 💬 Tiktok: https://www.tiktok.com/@tz4427?_r=1&_t=ZS-9AlIH0CJNDe
+dvk-module-064.sgmodule,4,original_author,andanh447,# 🚀 Rewrite by: andanh447 (tiendh07) Server
+dvk-module-064.sgmodule,4,other_author,tiendh,# 🚀 Rewrite by: andanh447 (tiendh07) Server
+dvk-module-064.sgmodule,13,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-067.sgmodule,2,original_author,andanh447,# AUTHOR: andanh447
+dvk-module-067.sgmodule,3,original_author,andanh447,# REPO: https://github.com/andanh447/andanh447.github.io
+dvk-module-068.sgmodule,58,original_author,andanh447,"spotify-proto = type=http-response,pattern=^https:\/\/(spclient\.wg\.spotify\.com|.*-spclient\.spotify\.com(?::443)?)\/(bootstrap\/v1\/bootstrap|user-customization-service\/v1\/cus"
+dvk-module-069.sgmodule,109,original_author,andanh447,# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+dvk-module-069.sgmodule,130,original_author,andanh447,"1blocker= type=http-response,pattern=^https:\/\/api\.revenuecat\.com\/v1\/subscribers,requires-body=1,script-path=https://raw.githubusercontent.com/andanh447/locketgold_tool/refs/h"
+dvk-module-070.sgmodule,56,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-module-072.sgmodule,13,original_author,andanh447,"revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/andanh447/locketgold_to"
+dvk-script-006.js,55,old_phone,0848130763,"title: ""LIÊN HỆ ZL:0848130763 ✨"","
+dvk-script-006.js,57,image_field,imageURL,"imageURL: ""https://i.ibb.co/9mzHK9ZL/tranquangthanh.png"""
+dvk-script-013.js,57,image_field,imageURL,"imageURL: ""https://i.ibb.co/yB6QkV8T/bao-ngoc.png"""
+dvk-script-017.js,57,image_field,imageURL,"imageURL: ""https://i.ibb.co/tpw794RY/2a-Obo-R68y-RB5i0ynapk48wyjd-VHs-Xe0d-GNGRBJu-C.png"""
+dvk-script-020.js,3,original_author,andanh447,> deleteHeader by andanh447
+dvk-script-021.js,3,original_author,andanh447,> deleteHeader & Anti-Cache 304 by andanh447
+dvk-script-023.js,4,original_author,andanh447,> Tác giả: andanh447
+dvk-script-025.js,49,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-025.js,56,original_author,andanh447,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-025.js,56,other_author,tiendh,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-025.js,57,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-027.js,57,image_field,imageURL,"imageURL: ""https://i.ibb.co/HLPbfx8s/couple.png"""
+dvk-script-029.js,57,image_field,imageURL,"imageURL: ""https://i.postimg.cc/15BPkqNN/173376ce-0cb2-411c-80db-fe9adc931718.png"""
+dvk-script-030.js,56,original_author,andanh447,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-030.js,56,other_author,tiendh,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-030.js,57,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-031.js,56,original_author,andanh447,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-031.js,56,other_author,tiendh,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-031.js,57,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-032.js,56,old_tiktok,tz4427,"body: ""Nhớ Follow Kênh Ủng Hộ Mình Nhé tz4427  💛"","
+dvk-script-032.js,57,image_field,imageURL,"imageURL: ""https://i.postimg.cc/hjb9mg5n/Gemini-Generated-Image-gxwjacgxwjacgxwj-(1).png"""
+dvk-script-033.js,56,old_tiktok,tz4427,"body: ""Nhớ Follow Kênh Ủng Hộ Mình Nhé tz4427  💛"","
+dvk-script-033.js,57,image_field,imageURL,"imageURL: ""https://i.postimg.cc/hjb9mg5n/Gemini-Generated-Image-gxwjacgxwjacgxwj-(1).png"""
+dvk-script-034.js,56,old_tiktok,tz4427,"body: ""Nhớ Follow Kênh Ủng Hộ Mình Nhé tz4427  💛"","
+dvk-script-034.js,57,image_field,imageURL,"imageURL: ""https://i.postimg.cc/hjb9mg5n/Gemini-Generated-Image-gxwjacgxwjacgxwj-(1).png"""
+dvk-script-035.js,6,original_author,andanh447,// Tác giả: @andanh447
+dvk-script-035.js,60,original_author,andanh447,"body: "" Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-035.js,60,other_author,tiendh,"body: "" Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-035.js,61,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-035.js,74,old_tiktok,tz4427,"settings_tiktok_url: ""https://www.tiktok.com/@tz4427?_r=1&_t=ZS-9AlIH0CJNDe"""
+dvk-script-036.js,5,original_author,andanh447,// cre andanh447
+dvk-script-036.js,58,original_author,andanh447,"body: ""💛 Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-036.js,58,other_author,tiendh,"body: ""💛 Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-036.js,59,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-037.js,6,original_author,andanh447,// Tác giả: @andanh447
+dvk-script-037.js,60,original_author,andanh447,"body: "" Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-037.js,60,other_author,tiendh,"body: "" Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-037.js,61,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-037.js,74,old_tiktok,tz4427,"settings_tiktok_url: ""https://www.tiktok.com/@tz4427?_r=1&_t=ZS-9AlIH0CJNDe"""
+dvk-script-038.js,49,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-038.js,56,original_author,andanh447,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-038.js,56,other_author,tiendh,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-038.js,57,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-039.js,114,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-039.js,120,old_tiktok,tz4427,"title: ""Nhớ follow tiktok @tz4427 ✨"","
+dvk-script-039.js,122,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-040.js,5,original_author,andanh447,// cre andanh447
+dvk-script-040.js,58,original_author,andanh447,"body: ""💛 Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-040.js,58,other_author,tiendh,"body: ""💛 Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-040.js,59,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-041.js,122,image_field,imageURL,"imageURL: ""https://locket-vip.mhiep20077.workers.dev/assets/gold_welcome.jpg"""
+dvk-script-042.js,114,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-042.js,120,old_tiktok,tz4427,"title: ""Nhớ follow tiktok @tz4427 ✨"","
+dvk-script-042.js,122,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-043.js,114,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-043.js,120,old_phone,0848130763,"title: ""LIÊN HỆ ZL:0848130763 ✨"","
+dvk-script-043.js,122,image_field,imageURL,"imageURL: ""https://i.ibb.co/9mzHK9ZL/tranquangthanh.png"""
+dvk-script-044.js,114,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-044.js,120,old_tiktok,tz4427,"title: ""Nhớ follow tiktok @tz4427 ✨"","
+dvk-script-044.js,122,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-044.js,1430,original_author,andanh447,"""section"": ""🎨 Decorative by andanh447"","
+dvk-script-044.js,1433,original_author,andanh447,"""overlay_id"": ""caption:andanh447"","
+dvk-script-044.js,1444,original_author,andanh447,"""text"": ""💻andanh447"","
+dvk-script-045.js,114,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-045.js,122,image_field,imageURL,"imageURL: ""https://i.ibb.co/fdM0jzZH/Thi-t-k-ch-a-c-t-n.png"""
+dvk-script-046.js,49,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-046.js,56,original_author,andanh447,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-046.js,56,other_author,tiendh,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-046.js,57,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-047.js,49,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-047.js,56,original_author,andanh447,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-047.js,56,other_author,tiendh,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-047.js,57,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-048.js,54,image_field,imageURL,"imageURL: ""https://i.postimg.cc/15BPkqNN/173376ce-0cb2-411c-80db-fe9adc931718.png"""
+dvk-script-049.js,49,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-049.js,56,original_author,andanh447,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-049.js,56,other_author,tiendh,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-049.js,57,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-050.js,122,image_field,imageURL,"imageURL: ""https://locket-vip.mhiep20077.workers.dev/assets/gold_welcome.jpg"""
+dvk-script-051.js,114,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-051.js,120,old_tiktok,tz4427,"title: ""Nhớ follow tiktok @tz4427 ✨"","
+dvk-script-051.js,122,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-052.js,122,image_field,imageURL,"imageURL: ""https://i.ibb.co/ynpz9Tqn/quang-anh.png"""
+dvk-script-053.js,4,original_author,andanh447,> Tác giả: andanh447 (@andanh447)
+dvk-script-053.js,5,original_author,andanh447,> Kênh cập nhật: https://raw.githubusercontent.com/andanh447/locketgold_tool/refs/heads/main/ALLin1DHT.sgmodule
+dvk-script-054.js,114,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-054.js,120,old_tiktok,tz4427,"title: ""Nhớ follow tiktok @tz4427 ✨"","
+dvk-script-054.js,122,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-054.js,1430,original_author,andanh447,"""section"": ""🎨 Decorative by andanh447"","
+dvk-script-054.js,1433,original_author,andanh447,"""overlay_id"": ""caption:andanh447"","
+dvk-script-055.js,56,original_author,andanh447,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-055.js,56,other_author,tiendh,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-055.js,57,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-056.js,7,original_author,andanh447,// =========  @andanh447 ========= //
+dvk-script-057.js,8,original_author,andanh447,// =========  @andanh447 ========= //
+dvk-script-058.js,114,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-058.js,120,old_tiktok,tz4427,"title: ""Nhớ follow tiktok @tz4427 ✨"","
+dvk-script-058.js,122,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-059.js,114,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-059.js,120,old_tiktok,tz4427,"title: ""Nhớ follow tiktok @tz4427 ✨"","
+dvk-script-059.js,122,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-060.js,114,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-060.js,120,old_tiktok,tz4427,"title: ""Nhớ follow tiktok @tz4427 ✨"","
+dvk-script-060.js,122,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-061.js,114,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-061.js,120,old_tiktok,tz4427,"title: ""Nhớ follow tiktok @tz4427 ✨"","
+dvk-script-061.js,122,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-062.js,114,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-062.js,120,old_tiktok,tz4427,"title: ""Nhớ follow tiktok @tz4427 ✨"","
+dvk-script-062.js,122,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-063.js,114,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-063.js,120,old_tiktok,tz4427,"title: ""Nhớ follow tiktok @tz4427 ✨"","
+dvk-script-063.js,122,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-064.js,114,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-064.js,120,old_tiktok,tz4427,"title: ""Nhớ follow tiktok @tz4427 ✨"","
+dvk-script-064.js,122,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-065.js,114,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-065.js,120,old_tiktok,tz4427,"title: ""Nhớ follow tiktok @tz4427 ✨"","
+dvk-script-065.js,122,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-066.js,114,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-066.js,120,old_tiktok,tz4427,"title: ""Nhớ follow tiktok @tz4427 ✨"","
+dvk-script-066.js,122,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-067.js,114,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-067.js,120,old_tiktok,tz4427,"title: ""Nhớ follow tiktok @tz4427 ✨"","
+dvk-script-067.js,122,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-068.js,114,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-068.js,120,old_tiktok,tz4427,"title: ""Nhớ follow tiktok @tz4427 ✨"","
+dvk-script-068.js,122,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-069.js,114,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-069.js,120,old_tiktok,tz4427,"title: ""Nhớ follow tiktok @tz4427 ✨"","
+dvk-script-069.js,122,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-070.js,120,old_phone,0848130763,"title: ""LIÊN HỆ ZL:0848130763 ✨"","
+dvk-script-070.js,122,image_field,imageURL,"imageURL: ""https://i.ibb.co/9mzHK9ZL/tranquangthanh.png"""
+dvk-script-072.js,49,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-072.js,56,original_author,andanh447,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-072.js,56,other_author,tiendh,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-072.js,57,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-073.js,57,image_field,imageURL,"imageURL: ""https://i.ibb.co/whHq1B7z/th-tr-ng.png"""
+dvk-script-075.js,57,image_field,imageURL,"imageURL: ""https://i.ibb.co/rfxwXsQ1/myxuyen.png"""
+dvk-script-080.js,7,original_author,andanh447,// =========  @andanh447 ========= //
+dvk-script-084.js,7,original_author,andanh447,// =========  @andanh447 ========= //
+dvk-script-085.js,7,original_author,andanh447,// =========  @andanh447 ========= //
+dvk-script-086.js,4,original_author,andanh447,// @andanh447
+dvk-script-087.js,7,original_author,andanh447,// =========  @andanh447 ========= //
+dvk-script-088.js,7,original_author,andanh447,// =========  @andanh447 ========= //
+dvk-script-090.js,4,original_author,andanh447,// @andanh447
+dvk-script-091.js,7,original_author,andanh447,// =========  @andanh447 ========= //
+dvk-script-092.js,4,original_author,andanh447,// @andanh447
+dvk-script-093.js,7,original_author,andanh447,// =========  @andanh447 ========= //
+dvk-script-094.js,4,original_author,andanh447,// @andanh447
+dvk-script-095.js,4,original_author,andanh447,// @andanh447
+dvk-script-103.js,56,original_author,andanh447,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-103.js,56,other_author,tiendh,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-103.js,57,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-104.js,56,original_author,andanh447,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-104.js,56,other_author,tiendh,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-104.js,57,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-105.js,49,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-105.js,56,original_author,andanh447,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-105.js,56,other_author,tiendh,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-105.js,57,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-106.js,49,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-106.js,56,original_author,andanh447,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-106.js,56,other_author,tiendh,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-106.js,57,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-107.js,49,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-107.js,56,original_author,andanh447,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-107.js,56,other_author,tiendh,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-107.js,57,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-108.js,49,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-108.js,56,original_author,andanh447,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-108.js,56,other_author,tiendh,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-108.js,57,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-109.js,3,original_author,andanh447,// CapCut Pro VIP Unlock - Boss: Tiến ĐH (andanh447)
+dvk-script-110.js,4,original_author,andanh447,> Tác giả: andanh447 (@andanh447)
+dvk-script-110.js,5,original_author,andanh447,> Kênh cập nhật: https://raw.githubusercontent.com/andanh447/locketgold_tool/refs/heads/main/ALLin1DHT.sgmodule
+dvk-script-111.js,50,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-111.js,57,original_author,andanh447,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-111.js,57,other_author,tiendh,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-111.js,58,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
+dvk-script-112.js,122,image_field,imageURL,"imageURL: ""https://i.ibb.co/tpSRsYLj/thanhtam.png"""
+dvk-script-114.js,57,image_field,imageURL,"imageURL: ""https://i.ibb.co/NnK050b0/tran-dang.png"""
+dvk-script-116.js,49,old_brand,LOCKET GOLD ĐHT,"tag: ""LOCKET GOLD ĐHT"","
+dvk-script-116.js,56,original_author,andanh447,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-116.js,56,other_author,tiendh,"body: ""Locket Gold by tiendh (andanh447) 💛"","
+dvk-script-116.js,57,image_field,imageURL,"imageURL: ""https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"""
