@@ -117,8 +117,8 @@ Object.assign(obj.entries, {
         title: "Lên LocketGold rồi đó 🤫 😎",
         feature_set: [
             {
-                title: "LIÊN HỆ ZL:0848130763 ✨",
-                body: "BOTtele:@shoppremium_vn2026_bot 💛",
+                title: "LIÊN HỆ ZL:0937643857 ✨",
+                body: "Tiktok: @dvk.frv 💛",
                 imageURL: "https://i.ibb.co/9mzHK9ZL/tranquangthanh.png"
             }
         ],
