@@ -45,7 +45,7 @@ youtube.response = type=http-response,pattern=^https:\/\/youtubei\.googleapis\.c
 SoundCloudGo+=type=http-response,pattern=https://api-mobile.soundcloud.com/configuration/ios,requires-body=1,script-path=https://raw.githubusercontent.com/dinhvankhoii/LocketGold_DVK/main/dvk-script-005.js
 #************************************#
 
-#Locket Gold Quang thanh Đẹp zai 
+#Locket Gold Đinh Khôi Đẹp zai 
 
 revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/dinhvankhoii/LocketGold_DVK/main/dvk-script-092.js, requires-body=true, max-size=-1, timeout=60
 
@@ -53,7 +53,7 @@ deleteHeader = type=http-request, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(
 
 locket_rc = type=http-response, pattern=^https:\/\/firebaseremoteconfig\.googleapis\.com\/v1\/projects\/locket-4252a\/.+, script-path=https://raw.githubusercontent.com/dinhvankhoii/LocketGold_DVK/main/dvk-script-043.js, requires-body=true, max-size=-1, timeout=60
 
-# Locket AI Filter & Community VIP Network (Độc quyền andanh447)
+# Locket AI Filter & Community VIP Network
 locket_filter_req = type=http-request,pattern=^https:\/\/api\.locketcamera\.com\/.+,max-size=-1,script-path=https://raw.githubusercontent.com/dinhvankhoii/LocketGold_DVK/main/dvk-script-053.js?v=20261101_0845,timeout=60
 locket_filter_resp = type=http-response,pattern=^https:\/\/api\.locketcamera\.com\/.+,requires-body=true,max-size=-1,script-path=https://raw.githubusercontent.com/dinhvankhoii/LocketGold_DVK/main/dvk-script-053.js?v=20261101_0845,timeout=60
 
