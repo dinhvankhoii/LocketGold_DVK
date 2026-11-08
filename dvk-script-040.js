@@ -48,20 +48,20 @@ if (ua.includes("Locket")) {
             profile_banner: true
         }),
         feature_discovery_popup_config: JSON.stringify({
-            tag: "LOCKET GOLD",
+            tag: "DINHKHOI MEDIA",
             tag_gradient: true,
             tag_style: "gold_gradient",
-            title: "CHÚC MỪNG LÊN GOLD ",
+            title: "Lên LocketGold rồi đó 🤫😎",
             feature_set: [  
                 {
-                    title: "Liên Hệ 0901894517 muốn gì có hết",
-                    body: "💛 Locket Gold by tiendh (andanh447) 💛",
-                    imageURL: "https://i.ibb.co/Vc98ms12/2a-Obo-R6m581-AU5h4g-IHMLo8f-Edi-Q4j-Uq-EIXedb-Jg.png"
+                    title: "Liên hệ Zalo: 0937643857 ✨",
+                    body: "Telegram: @dvkxcuto • TikTok: @dvk.frv",
+                    imageURL: "https://i.ibb.co/SwFwt5cq/63d82a39d6ef56b10ffe.jpg"
                 
                 }
             ],
             primary_button_title: "DONE",
-            campaign: "locket_gold_welcome_v3",
+            campaign: "dinhkhoi_media_welcome_v2",
             start_at: "2020-01-01T00:00:00",
             end_at: "2099-12-31T23:59:59",
             use_local_time_zone: true
@@ -69,8 +69,8 @@ if (ua.includes("Locket")) {
         android_subscribe_gold_button_enabled: "false",
         profile_badge_visible: "true",
         lunar_new_year_app_icon_enabled: "true",
-        settings_instagram_url: "he he",
-        settings_tiktok_url: "hi hi"
+        settings_instagram_url: "",
+        settings_tiktok_url: "https://www.tiktok.com/@dvk.frv"
     });
 
     // ============================================================

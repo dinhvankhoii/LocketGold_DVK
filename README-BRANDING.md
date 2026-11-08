@@ -1,12 +1,26 @@
-# DinhKhoi Media — Gói nhận diện độc lập
+# DinhKhoi Media — cập nhật nhận diện 2026-11-08
 
-Gói này được tạo sau khi rà soát tệp LocketGold_DVK-main (1).zip.
+Đây là **bản phân phối tùy chỉnh**, không phải dự án do DinhKhoi Media viết từ đầu.
 
-- `dvk_brand/index.html`: trang giới thiệu độc lập của Đinh Văn Khôi / DinhKhoi Media.
-- `audit/branding-review.csv`: vị trí các chuỗi thương hiệu, liên hệ, tác giả và thuộc tính hình ảnh trong ZIP gốc.
+## Nội dung đã cập nhật
 
-**Quan trọng:** Gói này KHÔNG chứa các script hoặc module can thiệp quyền Premium, và không phải bộ source LocketGold đã sửa. Không tự động thay tác giả gốc hay URL bên ngoài. Các tên tác giả và giấy phép của nguồn gốc phải được ghi nhận.
+- Cập nhật các cấu hình màn hình quảng bá `feature_discovery_popup_config` tìm thấy trong file `.js`.
+- Zalo/điện thoại: **0937643857**.
+- Telegram: **@dvkxcuto** (`https://t.me/dvkxcuto`).
+- TikTok: **@dvk.frv** (`https://www.tiktok.com/@dvk.frv`).
+- Ảnh quảng bá: `https://i.ibb.co/SwFwt5cq/63d82a39d6ef56b10ffe.jpg`.
+- Xóa liên kết Instagram/YouTube quảng bá người khác khi không có tài khoản thay thế được cung cấp.
+- Cập nhật các chú thích quảng bá và một số nhãn trang trí hiển thị; giữ nguyên định danh nội bộ.
+- Cập nhật trang giới thiệu riêng `dvk_brand/index.html`.
 
-## Đưa trang giới thiệu lên GitHub
+## Lưu ý quan trọng
 
-Giải nén vào repository; chạy `git add dvk_brand README-BRANDING.md audit/branding-review.csv`, sau đó commit và push. Để đăng trang qua GitHub Pages, chọn thư mục phù hợp hoặc cấu hình workflow Pages.
+- **Ghi công tác giả gốc, giấy phép, URL mã nguồn gốc và tham chiếu kỹ thuật vẫn được giữ nguyên.** Không thay tên tác giả gốc thành tên của người tùy chỉnh.
+- Các đường dẫn `script-path` tới repo ngoài có thể tải mã nguồn không nằm trong ZIP. Nếu những script đó hiện quảng bá cũ thì bản cập nhật local này **không thể thay nội dung từ máy chủ ngoài**.
+- Không chỉnh sửa logic cấp quyền, API, MITM hoặc kiểm tra Premium; không có xác nhận tính năng hoạt động thực tế trên Shadowrocket.
+- `audit/branding-review.csv` ghi danh sách file đã chỉnh sửa và loại thay đổi.
+- `BRANDING-UPDATE-REPORT.md` chứa thống kê và hướng dẫn kiểm tra.
+
+## Cài vào repository
+
+Giải nén ZIP rồi chép **nội dung bên trong thư mục `LocketGold_DVK-main`** vào thư mục gốc của repo; kiểm tra `git diff`, sau đó commit và push. Sao lưu nhánh cũ trước khi cập nhật.

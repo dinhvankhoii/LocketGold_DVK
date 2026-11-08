@@ -444,7 +444,7 @@ if (!anchor) {
       "auto_renew_product_id": fallbackId,
       "auto_renew_status": "1"
     }];
-    console.log('❌ Không tìm thấy gói đăng ký hợp lệ; gói thay thế đang được sử dụng.🎉🎉🎉\nKênh chia sẻ của Duy Vinh: https://t.me/duyvinh09');
+    console.log('❌ Không tìm thấy gói đăng ký hợp lệ; gói thay thế đang được sử dụng.🎉🎉🎉\nBản phân phối DinhKhoi Media: https://t.me/dvkxcuto');
   }
 }
 

@@ -43,19 +43,19 @@ if (ua.includes("Locket")) {
             profile_banner: true
         }),
         feature_discovery_popup_config: JSON.stringify({
-            tag: "LOCKET GOLD",
+            tag: "DINHKHOI MEDIA",
             tag_gradient: true,
             tag_style: "gold_gradient",
-            title: "Đã Kich Hoạt 💛",
+            title: "Lên LocketGold rồi đó 🤫😎",
             feature_set: [
                 {
-                    title: "Youtube @NightmarketServer ✨",
-                    body: "Nhớ Follow Kênh Ủng Hộ Mình Nhé 💛",
-                    imageURL: "https://i.postimg.cc/15BPkqNN/173376ce-0cb2-411c-80db-fe9adc931718.png"
+                    title: "Liên hệ Zalo: 0937643857 ✨",
+                    body: "Telegram: @dvkxcuto • TikTok: @dvk.frv",
+                    imageURL: "https://i.ibb.co/SwFwt5cq/63d82a39d6ef56b10ffe.jpg"
                 }
             ],
             primary_button_title: "Done",
-            campaign: "locket_gold_NMS",
+            campaign: "dinhkhoi_media_welcome_v2",
             start_at: "2020-01-01T00:00:00",
             end_at: "2099-12-31T23:59:59",
             use_local_time_zone: true
@@ -63,7 +63,7 @@ if (ua.includes("Locket")) {
         android_subscribe_gold_button_enabled: "false",
         profile_badge_visible: "true",
         lunar_new_year_app_icon_enabled: "true",
-        settings_youtube_url: "https://www.youtube.com/@NightmarketServer/",
+        settings_youtube_url: "",
     });
 
     // ============================================================
@@ -573,7 +573,7 @@ if (ua.includes("Locket")) {
                         caption: {
                             background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] },
                             max_lines: 1,
-                            text: "💻 NMS09",
+                            text: "💻 DinhKhoi Media",
                             text_color: "#183153",
                             type: "static_content"
                         }

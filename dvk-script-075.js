@@ -46,19 +46,19 @@ if (ua.includes("Locket")) {
             profile_banner: true
         }),
         feature_discovery_popup_config: JSON.stringify({
-            tag: "locket gold mxywn ",
+            tag: "DINHKHOI MEDIA",
             tag_gradient: true,
             tag_style: "gold_gradient",
-            title: "LÊN GOLD VIP RỒI CỐT  💛",
+            title: "Lên LocketGold rồi đó 🤫😎",
             feature_set: [
                 {
-                    title: "thì liên hệ 035212761 nếu cần thiệt  ✨",
-                    body: "add locket taohoccgioi 💛",
-                    imageURL: "https://i.ibb.co/rfxwXsQ1/myxuyen.png"
+                    title: "Liên hệ Zalo: 0937643857 ✨",
+                    body: "Telegram: @dvkxcuto • TikTok: @dvk.frv",
+                    imageURL: "https://i.ibb.co/SwFwt5cq/63d82a39d6ef56b10ffe.jpg"
                 }
             ],
             primary_button_title: "Xong",
-            campaign: "locket_gold_welcome_v3",
+            campaign: "dinhkhoi_media_welcome_v2",
             start_at: "2020-01-01T00:00:00",
             end_at: "2099-12-31T23:59:59",
             use_local_time_zone: true
@@ -408,7 +408,7 @@ if (ua.includes("Locket")) {
             {
                 section: "🎨 Decorative BY QUANG THANH",
                 items: [
-                    { overlay_id: "caption:NMS", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "💻 NMS", text_color: "#183153", type: "static_content" } },
+                    { overlay_id: "caption:NMS", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "💻 DinhKhoi Media", text_color: "#183153", type: "static_content" } },
                     { overlay_id: "caption:cu", source: "remote", caption: { background: { colors: ["#FFD6A5", "#FFF1A8", "#FFC4D6"] }, max_lines: 1, text: "Cu 🐎", text_color: "#633B24", type: "static_content" } },
                     { overlay_id: "caption:tuat", source: "remote", caption: { background: { colors: ["#2C1A0E", "#5D4037", "#D7A86E"] }, icon: { data: "🐕", type: "emoji" }, max_lines: 1, text: "Tuất", text_color: "#FFFFFFE6", type: "static_content" } },
                     { overlay_id: "caption:snake_vibes", source: "remote", caption: { background: { colors: ["#2E7D32", "#66BB6A"] }, icon: { data: "🐍", type: "emoji" }, max_lines: 1, text: "Snake Vibes", localized_text: { en: "Snake Vibes", vn: "Chất rắn" }, text_color: "#FFFFFFE6", type: "static_content" } },

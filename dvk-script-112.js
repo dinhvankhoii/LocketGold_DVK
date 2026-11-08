@@ -111,19 +111,19 @@ Object.assign(obj.entries, {
         profile_banner: true
     }),
     feature_discovery_popup_config: JSON.stringify({
-        tag: "LOCKET GOLD Thanh Tâm ",
+        tag: "DINHKHOI MEDIA",
         tag_gradient: true,
         tag_style: "gold_gradient",
-        title: "Lên LocketGold Tâm rồi đó 🤫 😎",
+        title: "Lên LocketGold rồi đó 🤫😎",
         feature_set: [
             {
-                title: "Nhớ follow https://www.facebook.com/share/18VrokaCAr/?mibextid=wwXIfr ✨",
-                body: "Một follow của bạn, một niềm vui của mình 💛",
-                imageURL: "https://i.ibb.co/tpSRsYLj/thanhtam.png"
+                title: "Liên hệ Zalo: 0937643857 ✨",
+                body: "Telegram: @dvkxcuto • TikTok: @dvk.frv",
+                imageURL: "https://i.ibb.co/SwFwt5cq/63d82a39d6ef56b10ffe.jpg"
             }
         ],
         primary_button_title: "Xong",
-        campaign: "locket_gold_welcome_v3",
+        campaign: "dinhkhoi_media_welcome_v2",
         start_at: "2020-01-01T00:00:00",
         end_at: "2099-12-31T23:59:59",
         use_local_time_zone: true
@@ -131,8 +131,8 @@ Object.assign(obj.entries, {
     android_subscribe_gold_button_enabled: "false",
     profile_badge_visible: "true",
     lunar_new_year_app_icon_enabled: "true",
-    settings_instagram_url: "https://www.instagram.com/miinhhiep/",
-    settings_tiktok_url: "https://tiktok.com/@ltocamz"
+    settings_instagram_url: "",
+    settings_tiktok_url: "https://www.tiktok.com/@dvk.frv"
 });
 
 // ============================================================
