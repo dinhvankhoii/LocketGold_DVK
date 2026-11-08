@@ -378,7 +378,7 @@ Object.assign(obj.entries, {
 
     widget_frame_event: JSON.stringify({
         uid: "shinchan_2026",
-        url: "https://i.ibb.co/gbq4BHxX/image.png",
+        url: "https://i.ibb.co/v4jMDRXM/Locket-Frame-Edge-Test-1024.png",
         use_local_time_zone: true,
         placement: "below",
         start_at: "2020-01-01T00:00:00",
