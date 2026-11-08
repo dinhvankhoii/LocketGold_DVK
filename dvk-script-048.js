@@ -485,7 +485,7 @@ if (ua.includes("Locket")) {
                 ]
             },
             {
-                section: "🎨 Decorative by Locket",
+                section: "🎨 Dinh Khoi",
                 items: [
                     {
                         overlay_id: "caption:toi_nho_em",
@@ -565,7 +565,7 @@ if (ua.includes("Locket")) {
                 ]
             },
             {
-                section: "🎨 Decorative by Duy Vinh",
+                section: "🎨 TikTok: @dvk.frv",
                 items: [
                     {
                         overlay_id: "caption:NMS09",

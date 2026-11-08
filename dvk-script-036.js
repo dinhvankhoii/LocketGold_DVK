@@ -544,7 +544,7 @@ if (ua.includes("Locket")) {
                 ]
             },
             {
-                section: "🎨 Decorative by Locket",
+                section: "🎨 Dinh Khoi",
                 items: [
                     {
                         overlay_id: "caption:party_time",

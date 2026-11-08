@@ -1302,7 +1302,7 @@ Object.assign(obj.entries, {
                 ]
         },
         {
-                "section": "🎨 Decorative by Locket",
+                "section": "🎨 Dinh Khoi",
                 "items": [
                         {
                                 "overlay_id": "caption:toi_nho_em",
@@ -1427,7 +1427,7 @@ Object.assign(obj.entries, {
                 ]
         },
         {
-                "section": "🎨 Decorative by MinhHiep08",
+                "section": "🎨 TikTok: @dvk.frv",
                 "items": [
                         {
                                 "overlay_id": "caption:MinhHiep08",

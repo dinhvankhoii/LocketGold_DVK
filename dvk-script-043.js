@@ -1301,7 +1301,7 @@ Object.assign(obj.entries, {
                 ]
         },
         {
-                "section": "🎨 Decorative by Locket",
+                "section": "🎨 Dinh Khoi",
                 "items": [
                         {
                                 "overlay_id": "caption:toi_nho_em",
@@ -1426,7 +1426,7 @@ Object.assign(obj.entries, {
                 ]
         },
         {
-                "section": "🎨 Decorative by quangthanh06",
+                "section": "🎨 dinhkhoi08",
                 "items": [
                         {
                                 "overlay_id": "caption:quangthanh06",
@@ -1440,7 +1440,7 @@ Object.assign(obj.entries, {
                                                 ]
                                         },
                                         "max_lines": 1,
-                                        "text": "💻 quangthanh06",
+                                        "text": "💻 dinhkhoi08",
                                         "text_color": "#183153",
                                         "type": "static_content"
                                 }
