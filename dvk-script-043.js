@@ -378,7 +378,7 @@ Object.assign(obj.entries, {
 
     widget_frame_event: JSON.stringify({
         uid: "shinchan_2026",
-        url: "https://i.ibb.co/HfbV9TRw/anh-7-red-madrid-1.png",
+        url: "https://i.ibb.co/d4FJzS3F/image.png",
         use_local_time_zone: true,
         placement: "below",
         start_at: "2020-01-01T00:00:00",
@@ -415,6 +415,21 @@ Object.assign(obj.entries, {
                 glow_effect: true,
                 glow_color: "#1D9BF0",
                 overlay_asset: "https://locket-vip.mhiep20077.workers.dev/assets/verified_badge.png"
+            },
+            // THỬ NGHIỆM: Nếu ứng dụng hỗ trợ ID màu "red" trong
+            // widget_frames_config, chọn khung đỏ sẽ dùng ảnh Giáng sinh.
+            // Một số phiên bản Locket vẽ màu khung ngay trong ứng dụng,
+            // nên cấu hình này có thể bị bỏ qua.
+            {
+                id: "red",
+                name: "🎄 Giáng sinh",
+                border_style: "solid_red",
+                crown_badge: false,
+                badge_text: "",
+                corner_radius: 28.0,
+                glow_effect: false,
+                glow_color: "#D71920",
+                overlay_asset: "https://i.ibb.co/Kx74KfJb/image.png"
             }
         ]
     }),
@@ -423,7 +438,8 @@ Object.assign(obj.entries, {
         "royal_gold_vip",
         "verified_blue_vip",
         "gold_luxury",
-        "classic"
+        "classic",
+        "red"
     ]),
 
     seasonal_frames_config: JSON.stringify({
