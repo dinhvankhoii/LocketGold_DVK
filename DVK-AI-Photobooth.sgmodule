@@ -1,0 +1,14 @@
+
+#!name=🎨 DinhKhoi Media | AI & Photobooth
+#!desc=🖼️ Cau hinh thu nghiem AI Filter va Photobooth | DinhKhoi Media
+#!author=DinhKhoi Media
+#!homepage=https://www.dinhvankhoi.id.vn
+#!category=Locket
+#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Locket.png
+
+# Original project: NightmarketServer
+# Maintenance: DinhKhoi Media
+# Note: Khong can thiep xac thuc hoac quyen thue bao.
+
+[MITM]
+hostname = %APPEND% api.locketcamera.com, us-central1-locket-4252a.cloudfunctions.net
