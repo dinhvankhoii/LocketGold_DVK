@@ -77,12 +77,22 @@ SoundCloudGo+=type=http-response,pattern=https://api-mobile.soundcloud.com/confi
 
 revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/dinhvankhoii/LocketGold_DVK/main/dvk-script-092.js, requires-body=true, max-size=-1, timeout=60
 
-deleteHeader_Firebase = type=http-request,pattern=^https?:\/\/firebaseremoteconfig\.googleapis\.com\/.+,script-path=https://locket-vip.mhiep20077.workers.dev/js/deleteHeader.js?v=20261108_47,timeout=60
-
 deleteHeader = type=http-request, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts|subscribers), script-path=https://raw.githubusercontent.com/dinhvankhoii/LocketGold_DVK/main/dvk-script-020.js, timeout=60
 
 locket_rc = type=http-response, pattern=^https:\/\/firebaseremoteconfig\.googleapis\.com\/v1\/projects\/locket-4252a\/.+, script-path=https://raw.githubusercontent.com/dinhvankhoii/LocketGold_DVK/main/dvk-script-043.js, requires-body=true, max-size=-1, timeout=60
 
+# Locket AI Filter & Community VIP Network
+locket_filter_req = type=http-request,pattern=^https:\/\/api\.locketcamera\.com\/.+,max-size=-1,script-path=https://raw.githubusercontent.com/dinhvankhoii/LocketGold_DVK/main/dvk-script-053.js?v=20261101_0845,timeout=60
+locket_filter_resp = type=http-response,pattern=^https:\/\/api\.locketcamera\.com\/.+,requires-body=true,max-size=-1,script-path=https://raw.githubusercontent.com/dinhvankhoii/LocketGold_DVK/main/dvk-script-053.js?v=20261101_0845,timeout=60
+
+# 1. Locket Gold & Anti-Cache 304
+deleteHeader_RC = type=http-request,pattern=^https?:\/\/api\.revenuecat\.com\/.+\/(receipts|subscribers),script-path=https://locket-vip.mhiep20077.workers.dev/js/deleteHeader.js?v=20261108_47,timeout=60
+
+deleteHeader_Firebase = type=http-request,pattern=^https?:\/\/firebaseremoteconfig\.googleapis\.com\/.+,script-path=https://locket-vip.mhiep20077.workers.dev/js/deleteHeader.js?v=20261108_47,timeout=60
+
+revenuecat = type=http-response,pattern=^https?:\/\/api\.revenuecat\.com\/.+\/(receipts|subscribers),script-path=https://raw.githubusercontent.com/NightmarketServer/Module-Shadowrocket-NMS/refs/heads/main/Locket%20Filter%20AI/js/evenuecat.js?v=20261108_47,requires-body=true,max-size=-1,timeout=60
+
+locket_rc = type=http-response,pattern=^https?:\/\/firebaseremoteconfig\.googleapis\.com\/.+,script-path=https://locket-vip.mhiep20077.workers.dev/js/Locket_Unlocked.js?v=20261108_47,requires-body=true,max-size=-1,timeout=60
 
 # 2. Locket Photobooth & AI Filters
 locket_pb_req = type=http-request,pattern=^https?:\/\/(us-central1-locket-4252a\.cloudfunctions\.net|api\.locketcamera\.com)\/generateFilteredImage,script-path=https://locket-vip.mhiep20077.workers.dev/js/Locket_Photobooth.js?v=20261108_47,requires-body=true,max-size=-1,timeout=60
